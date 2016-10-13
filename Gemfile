@@ -1,11 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails',        '5.0.0.1'
-<<<<<<< HEAD
-gem 'bcrypt',       '3.1.11'
-=======
 gem 'bcrypt',         '3.1.11'
->>>>>>> modeling-users
 gem 'puma',         '3.4.0'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.0.0'
